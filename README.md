@@ -20,7 +20,7 @@
 
 - **SQL**: оконные функции, подзапросы, аналитика по когортам, воронки, ARPU/Retention/CR
 - **Python**: pandas, numpy, matplotlib, seaborn, statsmodels
-- **Статистика**: гипотезы, p-value, z-test, логистическая регрессия, odds ratio
+- **Статистика**: гипотезы, p-value, z-тест, t-тест, хи-квадрат
 - **Power BI**: дашборды, визуализация бизнес-метрик, работа с фильтрами и слайсерами
 - **Git**: коммиты с осмысленными сообщениями (в 60% случаев)
 
@@ -30,7 +30,7 @@
 
 | Название проекта                               | Описание                                                                 | Стек               |
 |------------------------------------------------|--------------------------------------------------------------------------|--------------------|
-| [**A/B тест + логистическая регрессия**](https://github.com/Iliya35753/product_analisys/tree/main/AB%20test/main.ipynb)        | Проверка гипотезы, z-тест, построение логрегрессии с интеракциями        | Python, pandas, statsmodels |
+| [**A/B тест + логистическая регрессия**](https://github.com/Iliya35753/product_analisys/tree/main/AB%20test/main.ipynb)        | Проверка гипотезы, z-тест        | Python, pandas, statsmodels |
 | [**Анализ метрик по дням недели (SQL)**](https://github.com/Iliya35753/product_analisys/tree/main/SQL)       | Расчёт ARPU, ARPPU, AOV с исключением отменённых заказов, когортный подход | PostgreSQL |
 | [**Power BI дашборд (в процессе)**](https://github.com/Iliya35753/product_analisys/blob/main/power%20bi/retail_dashboard/retail_db.md)              | Визуализация ключевых показателей продукта: выручка, воронка, сегменты   | Power BI           |
 | [**Исследовательский анализ данных (EDA)**](https://github.com/Iliya35753/product_analisys/blob/main/EDA/main.ipynb) | Анализ продуктовых данных, поиск закономерностей и визуализация. | Python, pandas, matplotlib, seaborn |
