@@ -31,7 +31,7 @@
 | Название проекта                               | Описание                                                                 | Стек               |
 |------------------------------------------------|--------------------------------------------------------------------------|--------------------|
 | [**A/B тест**](https://github.com/Iliya35753/product_analisys/tree/main/AB%20test/main.ipynb)        | Проверка гипотезы, z-тест        | Python, pandas, statsmodels |
-| [**Анализ метрик по дням недели (SQL)**](https://github.com/Iliya35753/product_analisys/tree/main/SQL)       | Расчёт ARPU, ARPPU, AOV с исключением отменённых заказов, когортный подход | PostgreSQL |
+| [**Анализ метрик (SQL)**](https://github.com/Iliya35753/product_analisys/tree/main/SQL)       | Расчёт ARPU, ARPPU, AOV с исключением отменённых заказов, когортный подход | PostgreSQL |
 | [**Power BI дашборд (в процессе)**](https://github.com/Iliya35753/product_analisys/blob/main/power%20bi/retail_dashboard/retail_db.md)              | Визуализация ключевых показателей продукта: выручка, воронка, сегменты   | Power BI           |
 | [**Исследовательский анализ данных (EDA)**](https://github.com/Iliya35753/product_analisys/blob/main/EDA/main.ipynb) | Анализ продуктовых данных, поиск закономерностей и визуализация. | Python, pandas, matplotlib, seaborn |
 
